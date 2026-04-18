@@ -1,6 +1,6 @@
 # White Space Finder in Virginia, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `409648` |
 | Location | Virginia |
 | Category | Restaurants |
-| Full dataset size | 85 records |
-| Free sample size | 2 records (2.35%) |
-| Last export | 2026-03-31T23:02:29.699034+00:00 |
+| Full dataset size | 93 records |
+| Free sample size | 9 records (9.68%) |
+| Last export | 2026-04-15T00:39:01.950295+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-virginia-us-sample-409648/releases/download/sample-latest/beamstation_409648_food_and_drink-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
