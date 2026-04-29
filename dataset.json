@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Virginia that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Virginia, US",
-  "export_job_id": "ee0ebb88-c006-408d-b334-5839de35f0c7",
+  "export_job_id": "824de10e-dd44-4b9b-9395-9323e1371159",
   "github_org": "Beamstation-Datasets",
   "id_short": 409648,
   "location_name": "Virginia",
@@ -14,9 +14,9 @@
   "repo_name": "white-space-finder-in-virginia-us-sample-409648",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/409648/beamstation_409648_food_and_drink-us-va_SAMPLE_DIST.csv",
   "sample_pct": 9.68,
-  "sample_records": 3,
-  "sample_sha256": "550609b33b9d6fb637ced0ba78ee707ef104c672229dec6939d8e3f42ecd65e9",
-  "sample_size_bytes": 28409,
-  "total_records": 31,
-  "updated_at": "2026-04-22T04:52:33.130521+00:00"
+  "sample_records": 9,
+  "sample_sha256": "5818fbc693d32052b84519db2bdb29cbd336d645de63e61befb3cfef9b01c4aa",
+  "sample_size_bytes": 50105,
+  "total_records": 93,
+  "updated_at": "2026-04-29T07:13:06.553979+00:00"
 }
