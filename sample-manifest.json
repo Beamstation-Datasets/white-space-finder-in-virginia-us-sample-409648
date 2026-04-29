@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ee0ebb88-c006-408d-b334-5839de35f0c7",
+  "export_job_id": "824de10e-dd44-4b9b-9395-9323e1371159",
   "id_short": 409648,
-  "published_at": "2026-04-22T07:27:40Z",
+  "published_at": "2026-04-29T19:08:01Z",
   "repo_name": "white-space-finder-in-virginia-us-sample-409648",
   "sample_asset_name": "beamstation_409648_food_and_drink-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/409648/beamstation_409648_food_and_drink-us-va_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "550609b33b9d6fb637ced0ba78ee707ef104c672229dec6939d8e3f42ecd65e9",
-  "sample_size_bytes": 28409,
-  "total_records": 31
+  "sample_records": 9,
+  "sample_sha256": "5818fbc693d32052b84519db2bdb29cbd336d645de63e61befb3cfef9b01c4aa",
+  "sample_size_bytes": 50105,
+  "total_records": 93
 }
